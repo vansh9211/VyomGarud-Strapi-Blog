@@ -19,3 +19,7 @@ It utilizes a Headless CMS (Strapi) for content management and a modern framewor
 
 ## 🛠️ Tech Stack (TBD)
 *(Leave this section blank for now. You will fill this out later)*
+
+## 🏛️ Initial Architecture Diagram
+![Simple Architecture Diagram for Strapi/React Blog]
+(./architectureDiagram.drawio.png)
